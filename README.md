@@ -20,7 +20,7 @@
 
   ## Affiliations
 
-  - Webware-Experts AG (CEO)
+  - Webware-Experts OHG (CEO)
   - Active SPRIND application (Bundesagentur fuer Sprunginnovationen)
   - COEVO research collective (multi-instance, multi-provider)
 
